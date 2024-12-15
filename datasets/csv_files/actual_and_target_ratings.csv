@@ -1,0 +1,11 @@
+,city_id,avg_rating,target_avg_passenger_rating,rating_diff,avg_rating_met,city_name
+0,AP01,8.43,8.5,0.07000000000000028,exceed,Visakhapatnam
+1,CH01,7.98,8.0,0.019999999999999574,exceed,Chandigarh
+2,GJ01,6.42,7.0,0.5800000000000001,exceed,Surat
+3,GJ02,6.61,7.5,0.8899999999999997,exceed,Vadodara
+4,KA01,8.7,8.5,-0.1999999999999993,below,Mysore
+5,KL01,8.52,8.5,-0.019999999999999574,below,Kochi
+6,MP01,7.83,8.0,0.16999999999999993,exceed,Indore
+7,RJ01,8.58,8.25,-0.33000000000000007,below,Jaipur
+8,TN01,7.88,8.25,0.3700000000000001,exceed,Coimbatore
+9,UP01,6.49,7.25,0.7599999999999998,exceed,Lucknow
